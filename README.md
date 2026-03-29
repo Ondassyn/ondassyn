@@ -22,7 +22,7 @@ Experienced developer specializing in high-performance web applications and inte
 > **The Challenge:** Managing asymmetric information distribution in a multi-user environment.
 > * **Tech:** React 19, Next.js 16, Firebase, MongoDB.
 > * **Highlight:** Implemented a real-time "Information Symmetry Breaking" engine. It selectively pushes different data strings (Questions) to specific users while maintaining a unified UI state for all other participants.
-> * 🔗 [**Live Demo**](https://who-is-lying.vercel.app/) | [**Architecture Breakdown**](https://github.com/Ondassyn/who_is_lying#-technical-highlights)
+> * 🔗 [**Live Demo**](https://who-is-lying.vercel.app/) | [**Technical Highlights**](https://github.com/Ondassyn/who_is_lying#-technical-highlights)
 
 #### 3. [Fincher Tribute UI](https://github.com/Ondassyn/davidfincher)
 > **The Challenge:** High-fidelity cinematic storytelling through custom browser interactions.
