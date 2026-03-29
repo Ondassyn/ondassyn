@@ -1,3 +1,4 @@
+![Ondassyn | Senior Software Engineer](Gemini_Generated_Image_qffbipqffbipqffb.png)
 # Ondassyn Abdrakhmanov
 **Software Engineer (MSc) | Interactive UI & Real-Time Systems**
 
